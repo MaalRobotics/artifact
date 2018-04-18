@@ -1,0 +1,9 @@
+18-Apr-2018 08:47:30.296 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Using artifactory.home at '/var/opt/jfrog/artifactory' resolved from: System property
+18-Apr-2018 08:47:31.739 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+18-Apr-2018 08:47:42.641 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+18-Apr-2018 08:48:01.041 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log jolokia: No access restrictor found, access to any MBean is allowed
+18-Apr-2018 08:51:47.311 INFO [localhost-startStop-4] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+18-Apr-2018 08:52:02.633 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Using artifactory.home at '/var/opt/jfrog/artifactory' resolved from: System property
+18-Apr-2018 08:52:03.139 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+18-Apr-2018 08:52:12.225 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+18-Apr-2018 08:52:29.207 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log jolokia: No access restrictor found, access to any MBean is allowed
